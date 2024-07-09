@@ -1,20 +1,22 @@
 # CSE-204---Data-Structures-and-Algorithms---1
 
 - This is the first part of Data Structures and Algorithms course of CSE, BUET. The course is designed to cover the following topics:
-- Data Structures
-  - List
-  - Stack
-  - Queue
-  - Binary Search Tree
-  - Heap
-  
-- Algorithms
-  - Graph
-  - Sorting Algorithms
-  - Greedy Algorithms
-  - Dynamic Programming
+  - Data Structures
+    - List
+    - Stack
+    - Queue
+    - Binary Search Tree
+    - Heap
+    
+  - Algorithms
+    - Graph
+    - Sorting Algorithms
+    - Greedy Algorithms
+    - Dynamic Programming
 
-Look up the [`course outline`](/CSE%20204%20Course%20Outline.pdf)
+- You can find out the second part of the course in the repository [CSE 208 | DSA II](https://github.com/MdRaihanSobhan/CSE-208---Data-Structures-and-Algorithms-2)
+
+Have a glance at the [`course outline`](/CSE%20204%20Course%20Outline.pdf)
 
 ## Resources 
    - [DSA Book on C++](/0.%20Resources/C++3elatest.pdf)
