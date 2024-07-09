@@ -1,11 +1,14 @@
 # CSE-204---Data-Structures-and-Algorithms---1
 
 - This is the first part of Data Structures and Algorithms course of CSE, BUET. The course is designed to cover the following topics:
+- Data Structures
   - List
   - Stack
   - Queue
   - Binary Search Tree
   - Heap
+  
+- Algorithms
   - Graph
   - Sorting Algorithms
   - Greedy Algorithms
