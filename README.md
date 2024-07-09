@@ -62,8 +62,9 @@ Have a glance at the [`course outline`](/CSE%20204%20Course%20Outline.pdf)
 
 ## Flow of the course at a glance:
 - Week-1,2 | Offline 1 | [List](/1.%20List/)
-- Week-3 | Offline 2 | [Stack](/2.%20Stack/Stack%20Offline/)
-- Week-3 | Online 1 | [Stack](/2.%20Stack/Stack%20Online/)
+- Week-3
+  - Offline 2 | [Stack](/2.%20Stack/Stack%20Offline/)
+  - Online 1 | [Stack](/2.%20Stack/Stack%20Online/)
 - Week-4 | Offline 3 | [Queue](/3.%20Queue/)
 - Week-5,6 | Offline 4 | [Binary Search Tree](/4.%20Binary%20Search%20Tree/)
 - Week-7,8 | Offline 5 | [Heap](/5.%20Heap/)
