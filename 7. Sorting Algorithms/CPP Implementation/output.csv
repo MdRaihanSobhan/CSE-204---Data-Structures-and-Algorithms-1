@@ -1,0 +1,7 @@
+n,Merge Sort, Quicksort, Randomized Quicksort, Insertion Sort, Quicksort with Sorted Input, Randomized Quicksort with Sorted Input, STL function
+5,0,0,0,0,0,0,0
+10,0,0,0,0,0,0,0
+100,0,0,0,0,0,0,0
+1000,0,0,0,0,5,0,0
+10000,0,5.33333,5.33333,213.667,437,0,0
+100000,15.3333,15.6667,21,21413,42754,15,16
