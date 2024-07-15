@@ -73,3 +73,8 @@ Have a glance at the [`course outline`](/CSE%20204%20Course%20Outline.pdf)
 - Week-11 | Offline 8 | [Greedy Algorithms](/8.%20Greedy%20Algorithms/)
 - Week-12-13 | Offline 9 | [Dynamic Programming](/9.%20Dynamic%20Programming/)
 - Week-14 | Quiz
+
+
+## Disclaimer
+
+This repository is an archive of the author's solutions to course assignments. These solutions are provided as-is and are not guaranteed to be error-free or comprehensive. The author accepts no responsibility for any issues or damage resulting from the use of these solutions. They are intended for reference only, and copying them for academic purposes is strongly discouraged. The author is not liable for any consequences arising from academic dishonesty.
